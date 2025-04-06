@@ -1,0 +1,11 @@
+.openapi-generator-ignore
+README.md
+classes/ru/neoflex/calculator/controllers/ApiUtil.java
+classes/ru/neoflex/calculator/controllers/CalculatorControllerApi.java
+classes/ru/neoflex/calculator/model/dto/CreditDTO.java
+classes/ru/neoflex/calculator/model/dto/EmploymentDTO.java
+classes/ru/neoflex/calculator/model/dto/LoanOfferDTO.java
+classes/ru/neoflex/calculator/model/dto/LoanStatementRequestDTO.java
+classes/ru/neoflex/calculator/model/dto/PaymentScheduleElementDTO.java
+classes/ru/neoflex/calculator/model/dto/ScoringDataDTO.java
+pom.xml

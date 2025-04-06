@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: ru.neoflex.calculator.services.CalcServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.723 s -- in ru.neoflex.calculator.services.CalcServiceTest
+ru.neoflex.calculator.services.CalcServiceTest.getPaymentSchedule -- Time elapsed: 0.010 s
+ru.neoflex.calculator.services.CalcServiceTest.getCreditDtoShouldReturnFilledObject -- Time elapsed: 0.005 s
+ru.neoflex.calculator.services.CalcServiceTest.calculateInterest -- Time elapsed: 0.003 s
+ru.neoflex.calculator.services.CalcServiceTest.calculateMonthlyPayment -- Time elapsed: 0.003 s
+ru.neoflex.calculator.services.CalcServiceTest.calculateTotalAmount -- Time elapsed: 0.003 s

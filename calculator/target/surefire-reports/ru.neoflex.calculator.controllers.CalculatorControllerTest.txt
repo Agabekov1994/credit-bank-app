@@ -1,0 +1,22 @@
+-------------------------------------------------------------------------------
+Test set: ru.neoflex.calculator.controllers.CalculatorControllerTest
+-------------------------------------------------------------------------------
+Tests run: 18, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.333 s -- in ru.neoflex.calculator.controllers.CalculatorControllerTest
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_passportSeriesMustByGreater4 -- Time elapsed: 0.892 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_firstNameMustBeFrom2To30characters -- Time elapsed: 0.079 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_lastNameMustBeFrom2To30characters -- Time elapsed: 0.009 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffersShouldReturn200 -- Time elapsed: 0.093 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_termMustByGreater6 -- Time elapsed: 0.006 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_passportNumberMustByGreater6 -- Time elapsed: 0.006 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_lastNameMustBeFrom2To30characters -- Time elapsed: 0.005 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_passportSeriesMustByGreater4 -- Time elapsed: 0.007 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCreditDetailsShouldReturn200 -- Time elapsed: 0.024 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_firstnameMustBeFrom2To30characters -- Time elapsed: 0.009 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_termMustByGreater6 -- Time elapsed: 0.007 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_middleNameMustBeFrom2To30characters -- Time elapsed: 0.008 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_accountNumberMustByGreater20 -- Time elapsed: 0.009 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_InvalidEmail -- Time elapsed: 0.005 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_amountMustByGreater30000 -- Time elapsed: 0.056 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateCalc_shouldReturnBadRequest_amountMustByGreater30000 -- Time elapsed: 0.005 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_middleNameMustBeFrom2To30characters -- Time elapsed: 0.005 s
+ru.neoflex.calculator.controllers.CalculatorControllerTest.calculateOffers_shouldReturnBadRequest_passportNumberMustByGreater6 -- Time elapsed: 0.005 s

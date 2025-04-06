@@ -1,0 +1,18 @@
+-------------------------------------------------------------------------------
+Test set: ru.neoflex.calculator.services.ScoringServiceTest
+-------------------------------------------------------------------------------
+Tests run: 14, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.024 s -- in ru.neoflex.calculator.services.ScoringServiceTest
+ru.neoflex.calculator.services.ScoringServiceTest.testAgeClients -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenEmploymentStatusBusinessOwner -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenEmploymentStatusSelfManager -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testEmploymentSalary -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenGenderMale -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testEmployment -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenPositionMidManager -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testAgeClientsWhenMale -- Time elapsed: 0 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWorkExperience -- Time elapsed: 0.004 s
+ru.neoflex.calculator.services.ScoringServiceTest.testAgeClientsWhenFemale -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenGenderNonBinary -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenGenderFemaleMarried -- Time elapsed: 0 s
+ru.neoflex.calculator.services.ScoringServiceTest.testWhenMaritalStatusDivorced -- Time elapsed: 0.001 s
+ru.neoflex.calculator.services.ScoringServiceTest.testCurrentRateForOffers -- Time elapsed: 0.001 s

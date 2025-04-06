@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------
+Test set: ru.neoflex.calculator.services.OfferServiceTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.101 s -- in ru.neoflex.calculator.services.OfferServiceTest
+ru.neoflex.calculator.services.OfferServiceTest.getLoanOffersErrorAgeTest -- Time elapsed: 0.086 s
+ru.neoflex.calculator.services.OfferServiceTest.generateOffers -- Time elapsed: 0.009 s
